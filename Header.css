@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(100, 67, 228);  
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+header .header-title {
+    color: rgb(183, 236, 36);   
+    margin: 0;
+    padding: 0;
+}
+
+header .pic1 {
+    width: 60px;
+}
+header .pic2 {
+    width: 50px;
+}
